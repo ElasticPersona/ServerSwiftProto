@@ -1,0 +1,155 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/master.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Controller.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Controller.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Controller.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Controller~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Controller.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Hash.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Hash.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Hash.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Hash~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Hash.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Int+Random.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Int+Random.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Int+Random.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Int+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Int+Random.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/JSONSerializer.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/JSONSerializer.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/JSONSerializer.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/JSONSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/JSONSerializer.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/LinuxFixes.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/LinuxFixes.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/LinuxFixes.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/LinuxFixes~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/LinuxFixes.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/MemorySessionDriver.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/MemorySessionDriver.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/MemorySessionDriver.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/MemorySessionDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/MemorySessionDriver.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Middleware.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Middleware.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Middleware.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Middleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Middleware.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/NodeRouter.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/NodeRouter.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/NodeRouter.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/NodeRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/NodeRouter.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/RenderDriver.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RenderDriver.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/RenderDriver.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RenderDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RenderDriver.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Request.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Request.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Request.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Request.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/RequestFormExtension.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RequestFormExtension.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/RequestFormExtension.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RequestFormExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RequestFormExtension.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Response.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Response.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Response.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Response.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/ResponseConvertible.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ResponseConvertible.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/ResponseConvertible.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ResponseConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ResponseConvertible.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Route.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Route.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Route.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Route~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Route.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/RouterDriver.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RouterDriver.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/RouterDriver.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RouterDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/RouterDriver.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Server.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Server.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Server.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Server.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/ServerDriver.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ServerDriver.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/ServerDriver.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ServerDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/ServerDriver.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Session.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Session.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Session.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Session.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/SessionMiddleware.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SessionMiddleware.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/SessionMiddleware.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SessionMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SessionMiddleware.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/Socket.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Socket.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/Socket.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/Socket.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/SocketParser.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketParser.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/SocketParser.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketParser.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/SocketServer.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketServer.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/SocketServer.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/SocketServer.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/String+SHA1.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/String+SHA1.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/String+SHA1.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/String+SHA1~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/String+SHA1.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/StringExtensions.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/StringExtensions.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/StringExtensions.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/StringExtensions.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/Packages/vapor-0.1.9/Sources/View.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/View.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Sources/View.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/Vapor.o/Vapor/View.swiftdeps"
+  }
+}

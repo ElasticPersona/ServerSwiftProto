@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM a7663bb722, Clang 4ca3c7fa28, Swift 1c2f40e246)"
+options: "1cd5bd70f5b3da9736606e313085b0e7"
+build_time: [509328776, 843892000]
+inputs:
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/ServerSwiftProto/main.swift": [509328626, 0]

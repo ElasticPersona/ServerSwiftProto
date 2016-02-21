@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/ServerSwiftProto.o/ServerSwiftProto/master.swiftdeps"
+  },
+  "/Users/Shuhei/IdeaProjects/ServerSwiftProto/ServerSwiftProto/main.swift": {
+    "dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/ServerSwiftProto.o/ServerSwiftProto/main.d",
+    "object": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/ServerSwiftProto.o/ServerSwiftProto/main.swift.o",
+    "swiftmodule": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/ServerSwiftProto.o/ServerSwiftProto/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Shuhei/IdeaProjects/ServerSwiftProto/.build/debug/ServerSwiftProto.o/ServerSwiftProto/main.swiftdeps"
+  }
+}

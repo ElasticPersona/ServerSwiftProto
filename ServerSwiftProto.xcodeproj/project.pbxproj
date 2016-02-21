@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		71D8D7611C793663006C20B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D8D7601C793663006C20B5 /* main.swift */; };
+		71D8D7681C7936C3006C20B5 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D8D7671C7936C3006C20B5 /* Package.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		71D8D75D1C793663006C20B5 /* ServerSwiftProto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ServerSwiftProto; sourceTree = BUILT_PRODUCTS_DIR; };
-		71D8D7601C793663006C20B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		71D8D7601C793663006C20B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = ServerSwiftProto/main.swift; sourceTree = "<group>"; };
+		71D8D7671C7936C3006C20B5 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		71D8D7541C793663006C20B5 = {
 			isa = PBXGroup;
 			children = (
+				71D8D7671C7936C3006C20B5 /* Package.swift */,
+				71D8D7691C7936F5006C20B5 /* Sources */,
 				71D8D75F1C793663006C20B5 /* ServerSwiftProto */,
 				71D8D75E1C793663006C20B5 /* Products */,
 			);
@@ -57,9 +61,16 @@
 		71D8D75F1C793663006C20B5 /* ServerSwiftProto */ = {
 			isa = PBXGroup;
 			children = (
-				71D8D7601C793663006C20B5 /* main.swift */,
 			);
 			path = ServerSwiftProto;
+			sourceTree = "<group>";
+		};
+		71D8D7691C7936F5006C20B5 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				71D8D7601C793663006C20B5 /* main.swift */,
+			);
+			name = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,6 +130,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D8D7681C7936C3006C20B5 /* Package.swift in Sources */,
 				71D8D7611C793663006C20B5 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -166,6 +178,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/.build/debug";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -203,6 +216,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/.build/release";
 			};
 			name = Release;
 		};
